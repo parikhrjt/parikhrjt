@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parikhrjt
 - 👀 I’m interested in pumping creator's economy
 - 🌱 I’m currently learning about web3 and blockchain
-- 💞️ I’m looking to collaborate on combining art and tech
+- 💞️ I’m a data analytics and data science expert
 - 📫 Reach me at rajatparikh95@gmail.com
 
 <!---
