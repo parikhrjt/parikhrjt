@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @parikhrjt
-- 👀 I’m interested in pumping creator's economy
-- 🌱 I’m currently learning about web3 and blockchain
-- 💞️ I’m a data analytics and data science expert
-- 📫 Reach me at rajatparikh95@gmail.com
+# Hi, I'm Rajat Parikh 👋
 
-<!---
-parikhrjt/parikhrjt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Data & AI Engineer** — streaming analytics, RAG systems, blockchain intelligence, and automated KPI reporting.
+
+I build production-style Python systems: FastAPI, PostgreSQL, Docker, Streamlit, and LLM pipelines.
+
+---
+
+### 🔬 Featured Projects
+
+| Project | What it does |
+|---------|----------------|
+| [ai-research-agent](https://github.com/parikhrjt/ai-research-agent) | RAG pipeline with document ingestion, vector search & cited answers |
+| [realtime-analytics-pipeline](https://github.com/parikhrjt/realtime-analytics-pipeline) | Streaming events → KPIs, anomaly detection, Redis cache |
+| [blockchain-intelligence-dashboard](https://github.com/parikhrjt/blockchain-intelligence-dashboard) | Whale alerts, TVL tracking, DeFi analytics (CoinGecko + DefiLlama) |
+| [analytics-reporting-framework](https://github.com/parikhrjt/analytics-reporting-framework) | SaaS KPI automation + AI executive summaries |
+
+---
+
+### 🛠 Tech Stack
+
+`Python` · `FastAPI` · `PostgreSQL` · `Redis` · `Kafka/Redpanda` · `LangGraph` · `Streamlit` · `Docker` · `dbt-style SQL`
+
+---
+
+### 📫 Connect
+
+- LinkedIn: [rajat-parikh](https://www.linkedin.com/in/rajat-parikh-0848b488/)
+- Email: rajatparikh95@gmail.com
